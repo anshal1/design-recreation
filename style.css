@@ -22,7 +22,7 @@
   background-image: url("./12745.jpg");
   background-repeat: no-repeat;
   outline: 2px solid wheat;
-  background-position: -1035px -111px;
+  /* background-position: -1035px -111px; */
 }
 .back-drop {
   width: 100%;
